@@ -88,7 +88,7 @@ const QuestionsList = [
     },{
         question:"Ich habe den Nachbarn laut singen hören.",
         answersList: [
-            {answer:"Wirklich? Ich habe ihn nicht singen gehört?", isCorrect:false},
+            {answer:"Wirklich? Ich habe ihn nicht singen gehört.", isCorrect:false},
             {answer:"Echt? Das könnte ich mir nicht vorstellen.", isCorrect:false},
             {answer:"Das kann ich mir gut vorstellen. Er ist immer gut gelaunt.", isCorrect:true},
         ]
@@ -182,7 +182,7 @@ const QuestionsList = [
     },{
         question:"Alles ist trocken, aber es sieht so aus,",
         answersList: [
-            {answer:"als ob es doch noch geregnet hätte.", isCorrect:true},
+            {answer:"als ob es doch noch regnen würde.", isCorrect:true},
             {answer:"als ob es regnen konnte.", isCorrect:false},
             {answer:"als ob es hätte regnen sollen.", isCorrect:false},
         ]
